@@ -17,4 +17,4 @@ python decryption.py
 
 
 # Note:
-while saveing the new image file save in the png format
+while saving the new image file save in the .png format
