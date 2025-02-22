@@ -1,5 +1,5 @@
 # Stengraphy / cryptography
-this code is used to hide the text in the images
+this code is used to hide the text in the images (code written for windows os)
 
 # install pillow
 pip install pillow
